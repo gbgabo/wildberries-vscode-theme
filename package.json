@@ -1,0 +1,21 @@
+{
+    "name": "wildberries",
+    "displayName": "Wildberries",
+    "description": "A dark theme for purple lovers",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Wildberries",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Wildberries-color-theme.json"
+            }
+        ]
+    }
+}

@@ -12,7 +12,7 @@ Available as `Wildberries` and `Wildberries Darker` variant
 
 ![wildberries darker vscode screenshot](https://raw.githubusercontent.com/gbgabo/wildberries-vscode-theme/main/screenshot2.png)
 
-> Wildberrries Darker variant
+> Wildberries Darker variant
 
 ## Activate theme
 
